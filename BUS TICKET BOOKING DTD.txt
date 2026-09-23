@@ -1,7 +1,0 @@
-<!DOCTYPE bus_ticket_booking [
-  <!ELEMENT bus_ticket_booking ( passenger_info*)>
-   <!ELEMENT passenger_info(id,name, email)>
-    <!ELEMENT id (#PCDATA)>
-   <!ELEMENT name (#PCDATA)>
-  <!ELEMENT email (#PCDATA)>
-
