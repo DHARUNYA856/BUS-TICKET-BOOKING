@@ -1,8 +1,0 @@
-<!DOCTYPE login SYSTEM "default.dtd">
-<login>
-<default> 10 </default>
-<designed_by>DHARUNYA</designed_by>
-</login>
-<!ELEMENT login(default,designed_by)>
-<!ELEMENT default(#PCDATA)>
-<!ELEMENT designed_by(#PCDATA)>
