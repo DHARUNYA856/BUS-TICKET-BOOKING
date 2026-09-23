@@ -1,0 +1,43 @@
+INFO:root:Trying to send to +919047555947: Hi vijay, your schedule has been updated.
+INFO:root:Trying to send to +919047555947: Hi vijay, your schedule has been updated.
+INFO:root:Trying to send to +919486677011: Hi adhi, your schedule has been updated.
+INFO:root:Trying to send to +919486677011: Hi adhi, your schedule has been updated.
+INFO:root:Trying to send to +919940825077: Hi surya, your schedule has been updated.
+INFO:root:Trying to send to +919486677011: Hi bavi, check your schedule.
+INFO:root:Trying to send to +919486677011: Hi bavi, check your schedule.
+INFO:root:Trying to send to +919486677011: Hi bavi, check your schedule.
+INFO:root:Trying to send to +919047555947: Hi gopi, check your schedule.
+INFO:root:Trying to send to +919940825077: Hi abi, check your schedule.
+INFO:root:Trying to send to +919940825077: Hi gopi, your schedule has been updated.
+INFO:root:Trying to send to 893456235: Hi kumar, your schedule has been updated.
+ERROR:root:Error: Country Code Missing in Phone Number!
+INFO:root:Trying to send to +919940825077: Hi surya, your schedule has been updated.
+INFO:root:Trying to send to +919047555947: Hi vijay, your schedule has been updated.
+INFO:root:Trying to send to +919486677011: Hi bavi, your schedule has been updated.
+INFO:root:Trying to send to +919486677011: Hi bavi, your schedule has been updated.
+INFO:root:Trying to send to +919486677011: Hi bavi, check your schedule.
+INFO:root:Trying to send to +919486677011: Hi bavi, check your schedule.
+INFO:root:Trying to send to +919047555947: Hi vijay, check your schedule.
+INFO:root:Trying to send to +919047555947: Hi vijay, check your schedule.
+INFO:root:Trying to send to +919047555947: Hi vijay, check your schedule.
+INFO:root:Trying to send to +919047555947: Hi vijay, check your schedule.
+INFO:root:Trying to send to +919047555947: Hi vijay, check your schedule.
+INFO:root:Trying to send to +919047555947: Hi vijay, check your schedule.
+INFO:root:Trying to send to +919047555947: Hi vijay, check your schedule.
+INFO:root:Trying to send to +919047555947: Hi vijay, check your schedule.
+INFO:root:Trying to send to +919486677011: Hi bavi, your schedule has been updated.
+INFO:root:Trying to send to 893456235: Hi kumar, your schedule has been updated.
+ERROR:root:Error: Country Code Missing in Phone Number!
+INFO:root:Trying to send to +919940825077: Hi gopi, your schedule has been updated.
+INFO:root:Trying to send to +919940825077: Hi subha, check your schedule.
+INFO:root:Trying to send to +919047555947: Hi jeevan, your schedule has been updated.
+INFO:root:Trying to send to +919486677011: Hi subha, check your schedule.
+INFO:root:Trying to send to +919047555947: Hi jeevan, your schedule has been updated.
+INFO:root:Trying to send to +919047555947: Hi jeevan, your schedule has been updated.
+INFO:root:Trying to send to +919047555947: Hi jeevan, your schedule has been updated.
+INFO:root:Trying to send to +919486677011: Hi subha, check your schedule.
+INFO:root:Trying to send to +919940825077: Hi kishore, your schedule has been updated.
+INFO:root:Trying to send to +919940825077: Hi dharsni, your schedule has been updated.
+INFO:root:Trying to send to +919047555947: Hi bavi, check your schedule.
+INFO:root:Trying to send to +919940825077: Hi thangaraj, your schedule has been updated.
+INFO:root:Trying to send to +919047555947: Hi rathika, check your schedule.
